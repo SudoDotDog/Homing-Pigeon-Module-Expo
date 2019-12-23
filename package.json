@@ -18,7 +18,11 @@
   "dependencies": {},
   "devDependencies": {
     "@sudoo/io": "^1.6.1",
-    "@sudoo/triforce": "^2.0.4"
+    "@sudoo/triforce": "^2.0.4",
+    "homing-pigeon": "^1.0.1"
+  },
+  "peerDependencies": {
+    "homing-pigeon": "*"
   },
   "nyc": {
     "extension": [
