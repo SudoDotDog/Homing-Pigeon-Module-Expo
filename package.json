@@ -1,5 +1,5 @@
 {
-  "name": "@homing-pigeon/expo",
+  "name": "@homing-pigeon/module-expo",
   "version": "1.0.0",
   "description": ":penguin: Expo Plugin for Homing Pigeon",
   "repository": {
