@@ -21,7 +21,7 @@
   "devDependencies": {
     "@sudoo/io": "^1.6.1",
     "@sudoo/triforce": "^2.1.0",
-    "homing-pigeon": "^1.0.1"
+    "homing-pigeon": "^2.0.0"
   },
   "peerDependencies": {
     "homing-pigeon": "*"
