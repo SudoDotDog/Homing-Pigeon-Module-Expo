@@ -15,7 +15,9 @@
     "url": "https://github.com/SudoDotDog/Homing-Pigeon-Module-Expo/issues"
   },
   "homepage": "https://github.com/SudoDotDog/Homing-Pigeon-Module-Expo#readme",
-  "dependencies": {},
+  "dependencies": {
+    "expo-server-sdk": "^3.4.0"
+  },
   "devDependencies": {
     "@sudoo/io": "^1.6.1",
     "@sudoo/triforce": "^2.1.0",
