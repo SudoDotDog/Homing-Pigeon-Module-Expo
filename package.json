@@ -19,9 +19,9 @@
     "expo-server-sdk": "^3.4.0"
   },
   "devDependencies": {
-    "@sudoo/io": "^1.6.1",
+    "@sudoo/io": "^1.6.2",
     "@sudoo/triforce": "^2.1.0",
-    "homing-pigeon": "^2.0.0"
+    "homing-pigeon": "^2.0.3"
   },
   "peerDependencies": {
     "homing-pigeon": "*"
